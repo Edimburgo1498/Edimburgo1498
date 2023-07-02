@@ -3,7 +3,7 @@
 
   <div class="banner">
     <p>Aquí puedes encontrar algunos de mis proyectos destacados.</p>
-    <img src='./code_image.jpg'  height="160" width="100%" style="border: '5px solid red'; border-radius: '8px'">
+    <img src='./code_image.jpg'  height="160" width="100%" style="border-radius: '8px'">
   </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edimburgo1498&label=Profile%20views&color=0e75b6&style=flat" alt="edimburgo1498" /> </p>
