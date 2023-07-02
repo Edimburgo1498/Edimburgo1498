@@ -26,7 +26,7 @@
   <div class="banner">
     <h1>Mi Portafolio de Trabajo</h1>
     <p>Bienvenido/a a mi portafolio. Aquí puedes encontrar algunos de mis proyectos destacados.</p>
-    <img src='./code_image.jpg'  height="200" width="100%">
+    <img src='./code_image.jpg'  height="160" width="100%" style="border: 1px; border-radius: 8px">
   </div>
 
 
